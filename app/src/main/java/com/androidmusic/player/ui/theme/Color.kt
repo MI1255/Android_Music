@@ -32,12 +32,17 @@ val ExpressiveOnError = Color(0xFFFFFFFF)
 val ExpressiveErrorContainer = Color(0xFFFFDAD6)
 val ExpressiveOnErrorContainer = Color(0xFF410002)
 
-val ExpressiveBackground = Color(0xFFFFFBFE)
-val ExpressiveOnBackground = Color(0xFF1C1B1F)
-val ExpressiveSurface = Color(0xFFFFFBFE)
-val ExpressiveOnSurface = Color(0xFF1C1B1F)
-val ExpressiveSurfaceVariant = Color(0xFFE7E0EC)
-val ExpressiveOnSurfaceVariant = Color(0xFF49454F)
+// Dark theme colors for new design
+val ExpressiveBackground = Color(0xFF121212)
+val ExpressiveOnBackground = Color(0xFFFFFFFF)
+val ExpressiveSurface = Color(0xFF121212)
+val ExpressiveOnSurface = Color(0xFFFFFFFF)
+val ExpressiveSurfaceVariant = Color(0xFF1E1E1E)
+val ExpressiveOnSurfaceVariant = Color(0xFF9E9E9E)
+
+// New accent colors
+val AccentGreen = Color(0xFF4CAF50)
+val AccentPurple = Color(0xFF9C27B0)
 
 val ExpressiveOutline = Color(0xFF79747E)
 val ExpressiveOutlineVariant = Color(0xFFCAC4D0)
